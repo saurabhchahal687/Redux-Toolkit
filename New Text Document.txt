@@ -269,3 +269,43 @@ To https://github.com/saurabhchahal687/Redux-Toolkit.git
    747a7fa..febc38d  main -> main
 
 C:\Users\saura\Desktop\codebase\Redux-Toolkit>
+
+
+
+
+
+
+
+C:\Users\saura\Desktop\codebase\Redux-Toolkit>npm install react-redux
+
+added 3 packages, and audited 1350 packages in 18s
+
+270 packages are looking for funding
+  run `npm fund` for details
+
+9 vulnerabilities (3 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+C:\Users\saura\Desktop\codebase\Redux-Toolkit>npm list react react-dom
+practice1@0.1.0 C:\Users\saura\Desktop\codebase\Redux-Toolkit
++-- @reduxjs/toolkit@2.8.2
+| `-- react@19.1.1 deduped
++-- @testing-library/react@16.3.0
+| +-- react-dom@19.1.1 deduped
+| `-- react@19.1.1 deduped
++-- react-dom@19.1.1
+| `-- react@19.1.1 deduped
++-- react-redux@9.2.0
+| +-- react@19.1.1 deduped
+| `-- use-sync-external-store@1.5.0
+|   `-- react@19.1.1 deduped
++-- react-scripts@5.0.1
+| `-- react@19.1.1 deduped
+`-- react@19.1.1
+
+
+C:\Users\saura\Desktop\codebase\Redux-Toolkit>
